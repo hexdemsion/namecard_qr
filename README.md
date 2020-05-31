@@ -1,2 +1,2 @@
-# CodeNerve.github.io
-Terminal based portfolio website for CodeNerve
+# www.hexdemsion.com
+Landing page used from my business namecard QR code

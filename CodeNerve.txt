@@ -1,13 +1,21 @@
-<span id="a">code@nerve</span>:<span id="b">~</span><span id="c">$</span> cd CodeNerve/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
-<span id="a">coder@nerve</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->codenerve.txt<br/><br/>
-My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
+<span id="a">hexdemsion@x1carbon</span>:<span id="b">~</span><span id="c">$</span> whoami 
+<!-- dwadwadgwahdwakdwadwa -->
+<br>Hi! My name is Malhadi. 🙋‍♂️
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p>I started my career since 2014 as Web Developer 👨‍💻
+<br> And now i am currently focusing to learn low-level programming on 
+<br> Intel x86_64 and ARM architecture.
+<br> The main goals is to reverse-engineering the firmware from
+<br> embedded system which run Linux based operating system. 🐧
+</p> 
+<!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p>You can check my blog here: <a href="https://blog.hexdemsion.com">https://blog.hexdemsion.com</a>
+<!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+or if you want to know about me in daily life, <br>
+check my <a href="https://instagram.com/hexdemsion">Instagram</a>, <a href="https://facebook.com/hexdemsion">Facebook</a> or <a href="https://twitter.com/hexdemsion">Twitter</a>.
+<br>
+Oh, don't forget to connect with me on <a href="https://www.linkedin.com/in/ahmad-malhadi-80613318b/">LinkedIn</a> too. 
+</p>
 
-Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
-<p>You can introduce yourself here.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
-
-You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="Your email ID">Email</a>.
-
-<p>Cheers!</p>
+<p>Nice to meet you, btw. See you later 👋</p>
+<span id="a">hexdemsion@x1carbon</span>:<span id="b">~</span><span id="c">$</span> 
