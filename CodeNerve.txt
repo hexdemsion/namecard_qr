@@ -2,11 +2,8 @@
 <!-- dwadwadgwahdwakdwadwa -->
 <br>Hi! My name is Malhadi. 🙋‍♂️
 <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-<p>I started my career since 2014 as Web Developer 👨‍💻
-<br> And now i am currently focusing to learn low-level programming on 
-<br> Intel x86_64 and ARM architecture.
-<br> The main goals is to reverse-engineering the firmware from
-<br> embedded system which run Linux based operating system. 🐧
+<p>I started my programming career since 2014 👨‍💻
+<br> And now i am currently focus to chase my bachelor degree 🎓️
 </p> 
 <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p>You can check my blog here: <a href="https://blog.hexdemsion.com">https://blog.hexdemsion.com</a>
